@@ -1,0 +1,12 @@
+{
+  "name": "c2adams101/328/pets",
+  "authors": [
+    {
+      "name": "Dahia Adams",
+      "email": "adams.dahlia@students.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
